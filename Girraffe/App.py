@@ -17,3 +17,5 @@ if alive:
     print(f" Your alive")
 else:
     print(" Your dead")
+
+print(f"This is to test the bathscript")
