@@ -4,7 +4,7 @@ name = "raya"
 email = "2kronos@gmail.com"
 print(f"Hello {name}")
 print(f"My email is {email}")
-
+ 
 quantity = 3
 print(f"value is {quantity}")
 price = 3.6
